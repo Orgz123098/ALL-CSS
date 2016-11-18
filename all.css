@@ -1,207 +1,27 @@
-.all-bg-red-main {
-  background-color: red;
+.all-bg-blue-main {
+  background-color: blue;
 }
-.all-bg-red-1 {
-  background-color: #FF8000;
+.all-bg-blue-1 {
+  background-color: #0000e6;
 }
-.all-bg-red-2 {
-  background-color: #F00000;
+.all-bg-blue-2 {
+  background-color: #0000cc;
 }
-.all-bg-red-3 {
-  background-color: #E80000;
+.all-bg-blue-3 {
+  background-color: #0000b3;
 }
-.all-bg-red-4 {
-  background-color: #E00000;
+.all-bg-blue-4 {
+  background-color: #000099;
 }
-.all-bg-red-5 {
-  background-color: #D80000;
+.all-bg-blue-5 {
+  background-color: #1a1aff;
 }
-.all-bg-red-6 {
-  background-color: #D00000;
+.all-bg-blue-6 {
+  background-color: #3333ff;
 }
-.all-bg-red-7 {
-  background-color: #C80000;
+.all-bg-blue-7 {
+  background-color: #4d4dff;
 }
-.all-bg-red-8 {
-  background-color: #C00000;
-}
-.all-bg-crimson-main {
-  background-color: crimson;
-}
-.all-bg-crimson-1 {
-  background-color: #C61236;
-}
-.all-bg-crimson-2 {
-  background-color: #B01030;
-}
-.all-bg-crimson-3 {
-  background-color: #9A0E2A;
-}
-.all-bg-crimson-4 {
-  background-color: #840C24;
-}
-.all-bg-indianred-main {
-  background-color: #CD5C5C;
-}
-.all-bg-indianred-1 {
-  background-color: #B95353;
-}
-.all-bg-indianred-2 {
-  background-color: #A54A4A;
-}
-.all-bg-indianred-3 {
-  background-color: #914141;
-}
-.all-bg-indianred-4 {
-  background-color: #7D3838;
-}
-.all-bg-pink-main {
-  background-color: #FFC0CB;
-}
-.all-bg-pink-1 {
-  background-color: #E6ADB7;
-}
-.all-bg-pink-2 {
-  background-color: #CD9AA3;
-}
-.all-bg-pink-3 {
-  background-color: #B4878F;
-}
-.all-bg-pink-4 {
-  background-color: #9B747B;
-}
-.all-bg-hotpink-main {
-  background-color: #FF69B4;
-}
-.all-bg-hotpink-1 {
-  background-color: #ff66b3;
-}
-.all-bg-hotpink-2 {
-  background-color: #ff4da6;
-}
-.all-bg-hotpink-3 {
-  background-color: #ff3399;
-}
-.all-bg-hotpink-4 {
-  background-color: #ff1a8c;
-}
-.all-bg-deeppink-main {
-  background-color: #FF1493;
-}
-.all-bg-deeppink-1 {
-  background-color: #ff0088;
-}
-.all-bg-deeppink-2 {
-  background-color: #e6007a;
-}
-.all-bg-deeppink-3 {
-  background-color: #cc006d;
-}
-.all-bg-deeppink-4 {
-  background-color: #b3005f;
-}
-.all-bg-orange-main {
-  background-color: #FFA500;
-}
-.all-bg-orange-1 {
-  background-color: #e69500;
-}
-.all-bg-orange-2 {
-  background-color: #cc8500;
-}
-.all-bg-orange-3 {
-  background-color: #b37400;
-}
-.all-bg-orange-4 {
-  background-color: #996300;
-}
-.all-bg-darkorange-main {
-  background-color: #FF8C00;
-}
-.all-bg-darkorange-1 {
-  background-color: #e67e00;
-}
-.all-bg-darkorange-2 {
-  background-color: #cc7000;
-}
-.all-bg-darkorange-3 {
-  background-color: #b36200;
-}
-.all-bg-darkorange-4 {
-  background-color: #995400;
-}
-.all-bg-yellow-main {
-  background-color: #FFFF00;
-}
-.all-bg-yellow-1 {
-  background-color: #e6e600;
-}
-.all-bg-yellow-2 {
-  background-color: #cccc00;
-}
-.all-bg-yellow-3 {
-  background-color: #b3b300;
-}
-.all-bg-yellow-4 {
-  background-color: #999900;
-}
-.all-bg-gold-main {
-  background-color: #FFD700;
-}
-.all-bg-gold-1 {
-  background-color: #e6c300;
-}
-.all-bg-gold-2 {
-  background-color: #ccad00;
-}
-.all-bg-gold-3 {
-  background-color: #b39800
-}
-.all-bg-gold-4 {
-  background-color: #998200;
-}
-.all-bg-purple-main {
-  background-color: purple;
-}
-.all-bg-purple-1 {
-  background-color: #740074;
-}
-.all-bg-purple-2 {
-  background-color: #680068;
-}
-.all-bg-purple-3 {
-  background-color: #5C005C;
-}
-.all-bg-purple-4 {
-  background-color: #500050;
-}
-.all-bg-indigo-main {
-  background-color: indigo;
-}
-.all-bg-indigo-1 {
-  background-color: ;
-}
-.all-bg-indigo-2 {
-  background-color: ;
-}
-.all-bg-indigo-3 {
-  background-color: ;
-}
-.all-bg-indigo-4 {
-  background-color: ;
-}
-.all-bg-magenta-main {
-  background-color: magenta;
-}
-.all-bg-magenta-1 {
-  background-color: ;
-}
-.all-bg-magenta-2 {
-  background-color: ;
-}
-.all-bg-magenta-3 {
-  background-color: ;
-}
-.all-bg-magenta-4 {
-  background-color: ;
+.all-bg-blue-8 {
+  background-color: #6666ff;
 }
